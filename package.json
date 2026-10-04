@@ -1,9 +1,15 @@
 {
   "name": "playwright-jest-pom",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright + TypeScript automation using the Page Object Model and custom fixtures",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "test:chromium": "playwright test --project=chromium",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/archana-kannan/playwright-jest-pom.git"
