@@ -1,0 +1,21 @@
+{
+  "name": "playwright-jest-pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archana-kannan/playwright-jest-pom.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/archana-kannan/playwright-jest-pom/issues"
+  },
+  "homepage": "https://github.com/archana-kannan/playwright-jest-pom#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4"
+  }
+}
