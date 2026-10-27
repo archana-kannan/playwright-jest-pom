@@ -80,6 +80,7 @@ npx playwright install
 - [ ] Expand page objects with typed `Locator` getters and assertions
 - [ ] Base page class for shared navigation and waits
 - [ ] Test data fixtures and environment configuration
+- [ ] 
 
 ## 👩‍💻 Author
 
